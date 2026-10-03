@@ -1,0 +1,25 @@
+# .NET / C# Output Folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / Visual Studio Code / IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rsuser
+
+# Test Results & Logs
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.log
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
